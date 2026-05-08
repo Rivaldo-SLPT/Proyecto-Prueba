@@ -17,5 +17,5 @@ Este proyecto es el resultado del **Laboratorio 1 de Ingeniería de Software**[c
 Para iniciar el proyecto, se realizaron las siguientes configuraciones globales en la terminal[cite: 22]:
 
 ```bash
-git config --global user.name "Rivaldo Franco"
-git config --global user.email "tu_correo@ejemplo.com"
+git config --global user.name "RivaldoFranco"
+git config --global user.email "Rivaldo_official@hotmail.com"
